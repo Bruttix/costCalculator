@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Reason for post
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project serves as practice; For JSON web data manipulation into a e-commerce total calculator ( un-stylized and basic css ).
 
 ## Available Scripts
 
